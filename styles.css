@@ -43,8 +43,8 @@ footer {
 
 /* Profile picture styling */
 .profile-pic {
-    width: 80px;       /* shrink it */
-    height: 80px;
+    width: 100px;       /* shrink it */
+    height: 100px;
     border-radius: 50%; /* circular */
     object-fit: cover;
     flex-shrink: 0;
